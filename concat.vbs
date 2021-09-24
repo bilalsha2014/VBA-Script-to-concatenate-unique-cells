@@ -1,5 +1,4 @@
 Function ConcatUniq(xRg As Range, xChar As String) As String
-'updateby Extendoffice
     Dim xCell As Range
     Dim xDic As Object
     Set xDic = CreateObject("Scripting.Dictionary")
